@@ -1,0 +1,118 @@
+2019-07-31 17:54:42,307 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2019-07-31 17:54:42,329 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2019-07-31 17:54:42,347 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2019-07-31 17:54:42,361 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2019-07-31 17:54:59,489 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/linhaifeng1/Desktop/O2O/o2o/pom.xml
+2019-07-31 17:55:00,160 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hflcode:o2o:0.0.1-SNAPSHOT @ /Users/linhaifeng1/Desktop/O2O/o2o/pom.xml.
+2019-07-31 17:55:00,590 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /o2o/src/main/java
+2019-07-31 17:55:00,591 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /o2o/src/main/resources
+2019-07-31 17:55:00,591 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /o2o/src/test/java
+2019-07-31 17:55:01,684 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-07-31 17:55:02,705 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 17:55:02,713 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 17:55:02,715 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 17:55:02,717 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/linhaifeng1/Desktop/O2O/o2o/src/test/resources
+2019-07-31 17:59:10,476 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 17:59:10,479 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 17:59:10,480 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 17:59:10,480 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/linhaifeng1/Desktop/O2O/o2o/src/test/resources
+2019-07-31 18:03:28,615 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.6.1/maven-compiler-plugin-3.6.1.pom
+2019-07-31 18:03:28,655 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.6.1/maven-compiler-plugin-3.6.1.pom
+2019-07-31 18:03:28,680 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.6.1/maven-compiler-plugin-3.6.1.jar
+2019-07-31 18:03:28,735 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.6.1/maven-compiler-plugin-3.6.1.jar
+2019-07-31 18:03:28,904 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.pom
+2019-07-31 18:03:28,918 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.pom
+2019-07-31 18:03:28,931 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/6.0_ALPHA/asm-parent-6.0_ALPHA.pom
+2019-07-31 18:03:28,952 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/6.0_ALPHA/asm-parent-6.0_ALPHA.pom
+2019-07-31 18:03:28,974 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.pom
+2019-07-31 18:03:28,997 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.pom
+2019-07-31 18:03:29,019 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.pom
+2019-07-31 18:03:29,035 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.pom
+2019-07-31 18:03:29,049 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.1/plexus-compiler-2.8.1.pom
+2019-07-31 18:03:29,064 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.1/plexus-compiler-2.8.1.pom
+2019-07-31 18:03:29,086 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.pom
+2019-07-31 18:03:29,100 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.pom
+2019-07-31 18:03:29,120 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.pom
+2019-07-31 18:03:29,136 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.pom
+2019-07-31 18:03:29,149 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.1/plexus-compilers-2.8.1.pom
+2019-07-31 18:03:29,162 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.1/plexus-compilers-2.8.1.pom
+2019-07-31 18:03:29,185 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.jar
+2019-07-31 18:03:29,217 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.jar
+2019-07-31 18:03:29,239 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.jar
+2019-07-31 18:03:29,328 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.jar
+2019-07-31 18:03:29,344 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.jar
+2019-07-31 18:03:29,365 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.jar
+2019-07-31 18:03:29,380 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.jar
+2019-07-31 18:03:29,394 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.jar
+2019-07-31 18:03:29,408 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.jar
+2019-07-31 18:03:29,431 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.jar
+2019-07-31 18:04:55,656 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-31 18:04:55,821 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hflcode:o2o:0.0.1-SNAPSHOT @ /Users/linhaifeng1/Desktop/O2O/o2o/pom.xml.
+2019-07-31 18:04:56,092 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /o2o/src/main/java
+2019-07-31 18:04:56,092 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /o2o/src/main/resources
+2019-07-31 18:04:56,092 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /o2o/src/test/java
+2019-07-31 18:04:56,550 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for o2o
+2019-07-31 18:04:56,553 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-07-31 18:04:56,699 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:04:56,700 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 18:04:56,702 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:04:56,702 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/linhaifeng1/Desktop/O2O/o2o/src/test/resources
+2019-07-31 18:04:56,703 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of o2o
+2019-07-31 18:04:56,703 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for o2o
+2019-07-31 18:04:56,710 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:07:07,632 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-31 18:07:07,792 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hflcode:o2o:0.0.1-SNAPSHOT @ /Users/linhaifeng1/Desktop/O2O/o2o/pom.xml.
+2019-07-31 18:07:08,016 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /o2o/src/main/java
+2019-07-31 18:07:08,016 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /o2o/src/main/resources
+2019-07-31 18:07:08,017 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /o2o/src/test/java
+2019-07-31 18:07:08,446 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for o2o
+2019-07-31 18:07:08,448 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-07-31 18:07:08,584 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:07:08,591 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 18:07:08,592 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:07:08,593 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/linhaifeng1/Desktop/O2O/o2o/src/test/resources
+2019-07-31 18:07:08,593 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of o2o
+2019-07-31 18:07:08,593 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for o2o
+2019-07-31 18:07:08,595 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:07:11,904 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hflcode:o2o:0.0.1-SNAPSHOT @ /Users/linhaifeng1/Desktop/O2O/o2o/pom.xml.
+2019-07-31 18:07:12,198 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:07:12,199 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 18:07:12,200 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:07:12,200 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/linhaifeng1/Desktop/O2O/o2o/src/test/resources
+2019-07-31 18:07:12,201 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of o2o
+2019-07-31 18:07:12,201 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for o2o
+2019-07-31 18:07:12,203 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:07:21,202 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-31 18:07:21,332 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.hflcode:o2o:0.0.1-SNAPSHOT @ /Users/linhaifeng1/Desktop/O2O/o2o/pom.xml.
+2019-07-31 18:07:21,578 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /o2o/src/main/java
+2019-07-31 18:07:21,579 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /o2o/src/main/resources
+2019-07-31 18:07:21,584 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /o2o/src/test/java
+2019-07-31 18:07:21,885 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for o2o
+2019-07-31 18:07:21,888 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-07-31 18:07:22,446 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:07:22,447 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 18:07:22,448 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:07:22,448 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/linhaifeng1/Desktop/O2O/o2o/src/test/resources
+2019-07-31 18:07:22,448 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of o2o
+2019-07-31 18:07:22,448 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for o2o
+2019-07-31 18:07:22,452 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:09:45,987 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:09:45,988 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 18:09:45,989 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:09:45,991 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 18:12:47,508 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:12:47,508 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 18:12:47,509 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:12:47,510 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 18:19:43,300 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:19:43,300 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 18:19:43,301 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:19:43,302 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 18:23:12,636 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:23:12,637 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 18:23:12,637 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:23:12,638 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 18:27:22,362 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:27:22,363 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-31 18:27:22,364 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-31 18:27:22,364 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
